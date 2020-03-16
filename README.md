@@ -1,0 +1,1 @@
+# bizcola-wordpress-theme
